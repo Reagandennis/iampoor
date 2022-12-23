@@ -1,10 +1,10 @@
-# iampoor
+# I am poor application
 
-A new Flutter project.
+A flutter project learning through the app brewey coursework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+this project is set to test fundermentals in flutter development such as widgets and dart programming language.
 
 A few resources to get you started if this is your first Flutter project:
 
